@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://earth.google.com/kml/2.1"><Folder><description><![CDATA[3 Items from Layer Газопровод]]></description><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF0000FF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.446544,56.778124,0
+          53.439201,56.779489,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF0000FF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.419062,56.807829,0
+      53.425116,56.802573,0
+      53.426858,56.800504,0
+      53.427649,56.799068,0
+      53.437761,56.797796,0
+      53.443784,56.791109,0
+      53.445538,56.78313,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF0000FF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.445538,56.78313,0
+      53.446544,56.778124,0
+      53.450186,56.777298,0
+      53.456642,56.775851,0
+      53.458729,56.774187,0
+      53.466702,56.773829,0
+      53.470488,56.771284,0
+        </coordinates></LineString></Placemark></Folder></kml>

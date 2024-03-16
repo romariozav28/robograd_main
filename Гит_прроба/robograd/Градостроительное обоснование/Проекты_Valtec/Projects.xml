@@ -1,0 +1,466 @@
+<root><ValtecProjectManager>
+ <CountryName value="РОССИЙСКАЯ ФЕДЕРАЦИЯ"/>
+ <RegionName value="Удмуртская Республика"/>
+ <settlementName value="Ижевск"/>
+ <Boss value=""/>
+ <Checker value=""/>
+ <Developer value=""/>
+ <GIP value=""/>
+ <NormControl value=""/>
+ <ObjectName value=""/>
+ <Organization value=""/>
+ <ProjectNumber value=""/>
+ <Stage value=""/>
+ <BuildingType Vent="3" Air="0.5" Id="1" Name="Жилое многоквартирное"/>
+</ValtecProjectManager>
+<ValtecWarmFloor>
+ <TempDiff value="10"/>
+ <CoolantType value="Вода"/>
+</ValtecWarmFloor>
+<ValtecHeatLoss>
+ <Tab1Data>
+  <BuildingRegion value="Ижевск"/>
+  <CalculatedTemp value="-34"/>
+  <HeatingSeason value="222"/>
+  <AverTempHeatingSeason value="-5.6"/>
+  <Mode>
+   <ModeId value="1"/>
+   <DewPoint value="11.08558138508997"/>
+   <Humidity value="50"/>
+   <TempInside value="22"/>
+   <DayDegreesHeatingSeason value="6127.200000000001"/>
+   <BuildingType value="Жилое многоквартирное"/>
+   <Walls value="3.54452"/>
+   <Coatings value="5.2636"/>
+   <CoveringLoft value="4.65724"/>
+   <CoveringPassage value="5.2636"/>
+   <CoveringBasement value="4.65724"/>
+   <CoveringBasement1 value="4.65724"/>
+   <CoveringBasement2 value="4.65724"/>
+   <CoveringBasement3 value="4.65724"/>
+   <Windows value="0.60636"/>
+   <Lamp value="0.40318"/>
+   <ShopWindow value="0.60636"/>
+   <Doors1 value="0.9655172413793105"/>
+   <Doors2 value="0.55"/>
+   <Gates value="0.9655172413793105"/>
+  </Mode>
+ </Tab1Data>
+ <Tab3Data>
+  <Infiltration value="1"/>
+  <PanelBuilding value="0"/>
+  <AirDensityOut value="1.477017303665033"/>
+  <AirSpecificGravityOut value="14.48953974895398"/>
+  <BuildingHeight value="24"/>
+  <CalculatedTempStreet value="-34"/>
+  <VelocityPressure value="1.124444444444444"/>
+  <WindVelocity value="5"/>
+  <Group>
+   <GroupName value="Жилое многоквартирное"/>
+   <Floor value="1"/>
+   <FloorNumber value="1"/>
+   <GroupId value="1"/>
+   <BuildingTypeAirCoefficient value="0.5"/>
+   <BuildingTypeVentilation value="3"/>
+   <BuildingTypeId value="1"/>
+   <BuildingTypeName value="Жилое многоквартирное"/>
+   <Room>
+    <RoomName value="Помещение 1"/>
+    <RoomId value="1"/>
+    <AngleRoom value="0"/>
+    <AirSpecificGravityInter value="11.73898305084746"/>
+    <CalculatedHeatCostsCeiling value="0"/>
+    <CalculatedHeatCostsWall value="166546.5787329035"/>
+    <CalculatedHeatLossCeiling value="114756.9230769231"/>
+    <CalculatedHeatLossFloor value="114756.9230769231"/>
+    <CalculatedHeatLossWall value="461191.0590311111"/>
+    <CommonHeatLoss value="690704.9051849572"/>
+    <CommonNeedInHeat value="857251.4839178607"/>
+    <ExpenditureSanitary value="2886"/>
+    <CalculatedHeatCostsSanitary value="66838.69599375584"/>
+    <ExpenditureInfiltration value="166546.5787329035"/>
+    <Square value="962"/>
+    <NumWorkers value="0"/>
+    <IsKitchen value="1"/>
+    <IsWorkersLess3H value="0"/>
+    <KInfiltration value="0"/>
+    <ModeId value="1"/>
+    <DewPoint value="7.777784991734686"/>
+    <Humidity value="40"/>
+    <TempInside value="22"/>
+    <DayDegreesHeatingSeason value="6127.200000000001"/>
+    <BuildingType value="Жилое многоквартирное"/>
+    <Walls value="3.54452"/>
+    <Coatings value="5.2636"/>
+    <CoveringLoft value="4.65724"/>
+    <CoveringPassage value="5.2636"/>
+    <CoveringBasement value="4.65724"/>
+    <CoveringBasement1 value="4.65724"/>
+    <CoveringBasement2 value="4.65724"/>
+    <CoveringBasement3 value="4.65724"/>
+    <Windows value="0.60636"/>
+    <Lamp value="0.40318"/>
+    <ShopWindow value="0.60636"/>
+    <Doors1 value="0.9655172413793105"/>
+    <Doors2 value="0.55"/>
+    <Gates value="0.9655172413793105"/>
+    <Ceiling>
+     <CeilingName value="Перекрытие 1"/>
+     <NormalCeiling value="0"/>
+     <CeilingId value="1"/>
+     <CalculatedTemperatureOuter value="-34"/>
+     <CeilingHeatExpenditure value="0"/>
+     <CeilingHeatLoss value="114756.9230769231"/>
+     <CeilingHeatLossEmbrasure value="114756.9230769231"/>
+     <CeilingSquareWithEmbrasure value="962"/>
+     <CeilingSquareWithoutEmbrasure value="962"/>
+     <CeilingK value="3.550295857988166"/>
+     <CeilingKHeatTransfer value="0.6"/>
+    </Ceiling>
+    <Floor>
+     <FloorName value="Перекрытие 1"/>
+     <FloorDataOverlape value="1"/>
+     <FloorId value="1"/>
+     <NormalFloor value="0"/>
+     <CalculatedTemperatureOuter value="-34"/>
+     <FloorSquare value="962"/>
+     <FloorSquare1 value="962"/>
+     <FloorSquare2 value="0"/>
+     <FloorSquare3 value="0"/>
+     <FloorSquare4 value="0"/>
+     <HeatLoss value="114756.9230769231"/>
+     <FloorK value="0.6"/>
+     <KHeatTransfer1 value="3.550295857988166"/>
+     <KHeatTransfer2 value="0"/>
+     <KHeatTransfer3 value="0"/>
+     <KHeatTransfer4 value="0"/>
+    </Floor>
+    <Wall>
+     <WallName value="Стена 1"/>
+     <WallDirection value="С"/>
+     <WallId value="1"/>
+     <CalculatedTemperatureOuter value="-34"/>
+     <WallAirLoss value="0"/>
+     <WallHeatExpenditure value="0"/>
+     <WallHeatExpenditureInfiltration value="166546.5787329035"/>
+     <WallHeatLoss value="409111.1111111111"/>
+     <WallHeatLossEmbrasure value="461191.0590311111"/>
+     <WallHeight value="0"/>
+     <WallLength value="0"/>
+     <WallSquareWithEmbrasure value="1315"/>
+     <WallSquareWithoutEmbrasure value="1780"/>
+     <NormalMode value="-1"/>
+     <EmbrasureRoomType>
+      <EmbrasureGroup value=""/>
+      <EmbrasureType value="ОКНА И БАЛКОННЫЕ ДВЕРИ: Тройное остекление, раздельно-спаренные переплеты: ПХВ: обычное"/>
+      <EmbrasureHeight2 value="0"/>
+      <EmbrasureId value="1"/>
+      <EmbrasureAirPermeability value="5"/>
+      <EmbrasureDifference value="95.07777903000947"/>
+      <EmbrasureExpenditure value="166546.5787329035"/>
+      <EmbrasureHeatLoss value="52079.94792"/>
+      <EmbrasureHeatTransfer value="1.81818"/>
+      <EmbrasureHeight value="2"/>
+      <EmbrasureInfiltration value="10621.59303143517"/>
+      <EmbrasureUpperHeight value="0"/>
+      <EmbrasureSquare value="465"/>
+      <EmbrasureNumber value="93"/>
+      <EmbrasureWidth value="2.5"/>
+      <EmbrasureNormalMode value="-1"/>
+      <EmbrasureTypeK1 value="5"/>
+      <EmbrasureTypeK2 value="8"/>
+      <EmbrasureTypeK3 value="0"/>
+      <EmbrasureTypeKHeatTransfer value="1.81818"/>
+      <EmbrasureTypeKHeight value="0"/>
+      <EmbrasureTypeType value="Тройное остекление, раздельно-спаренные переплеты: ПХВ: обычное"/>
+     </EmbrasureRoomType>
+    </Wall>
+   </Room>
+  </Group>
+ </Tab3Data>
+ <ConstructionTreeWall>
+  <ConstructionName value="Стена 1"/>
+  <ConstructionParamIdx value="1"/>
+  <ConstructionLayerResistance value="0"/>
+  <ConstructionTypeName value=""/>
+  <ConstructionAlpha value="0"/>
+  <ConstructionKn value="0"/>
+  <KHeatTransmission_1 value="5.05050505050505"/>
+  <ThermalResistanceReduced_1 value="0.198"/>
+  <KHeatTransmission_2 value="0"/>
+  <ThermalResistanceReduced_2 value="0"/>
+  <KHeatTransmission_3 value="0"/>
+  <ThermalResistanceReduced_3 value="0"/>
+  <KHeatTransmission_4 value="0"/>
+  <ThermalResistanceReduced_4 value="0"/>
+ </ConstructionTreeWall>
+ <ConstructionTreeCeiling>
+  <ConstructionName value="Перекрытие 1"/>
+  <ConstructionParamIdx value="2"/>
+  <ConstructionLayerResistance value="0"/>
+  <ConstructionTypeName value="Перекрытие над неотапливаемыми подвалами без световых проемов в стенах"/>
+  <ConstructionAlpha value="6"/>
+  <ConstructionKn value="0.6"/>
+  <KHeatTransmission_1 value="3.550295857988166"/>
+  <ThermalResistanceReduced_1 value="0.2816666666666667"/>
+  <KHeatTransmission_2 value="0"/>
+  <ThermalResistanceReduced_2 value="0"/>
+  <KHeatTransmission_3 value="0"/>
+  <ThermalResistanceReduced_3 value="0"/>
+  <KHeatTransmission_4 value="0"/>
+  <ThermalResistanceReduced_4 value="0"/>
+ </ConstructionTreeCeiling>
+ <ConstructionTreeCeiling>
+  <ConstructionName value="Перекрытие 2"/>
+  <ConstructionParamIdx value="6"/>
+  <ConstructionLayerResistance value="0"/>
+  <ConstructionTypeName value="Перекрытие чердачное"/>
+  <ConstructionAlpha value="12"/>
+  <ConstructionKn value="0.9"/>
+  <KHeatTransmission_1 value="5.042016806722689"/>
+  <ThermalResistanceReduced_1 value="0.1983333333333333"/>
+  <KHeatTransmission_2 value="0"/>
+  <ThermalResistanceReduced_2 value="0"/>
+  <KHeatTransmission_3 value="0"/>
+  <ThermalResistanceReduced_3 value="0"/>
+  <KHeatTransmission_4 value="0"/>
+  <ThermalResistanceReduced_4 value="0"/>
+ </ConstructionTreeCeiling>
+</ValtecHeatLoss>
+<ValtecWaterExpenceSnip>
+ <Section>
+  <SectionName value="1"/>
+  <TempWinterXVS value="5"/>
+  <TempSummerXVS value="15"/>
+  <GVS value="0"/>
+  <WashTap value="1"/>
+  <TempGvs value="55"/>
+  <ProbabilityActionGeneral value="0.002321428571428572"/>
+  <ProbabilityActionXVS value="0.0008333333333333332"/>
+  <ProbabilityActionGVS value="0.02083333333333333"/>
+  <ProbabilityUseGeneral value="0.039"/>
+  <ProbabilityUseXVS value="0.021"/>
+  <ProbabilityUseGVS value="0.075"/>
+  <Alfa1 value="13.66451428571429"/>
+  <Alfa2 value="6.080399999999999"/>
+  <Alfa3 value="51.0155"/>
+  <Alfa4 value="175.484192"/>
+  <Alfa5 value="97.74593599999999"/>
+  <Alfa6 value="169.0548"/>
+  <SecondExpenseGeneral value="95.6516"/>
+  <SecondExpenseXVS value="42.5628"/>
+  <SecondExpenseGVS value="51.0155"/>
+  <SecondDrains value="95.6516"/>
+  <MaxHourExpenseGeneral value="263.226288"/>
+  <MaxHourExpenseXVS value="97.74593599999999"/>
+  <MaxHourExpenseGVS value="169.0548"/>
+  <MaxHourDrains value="0"/>
+  <AverageHourExpenseGeneral value="0"/>
+  <AverageHourExpenseXVS value="0"/>
+  <AverageHourExpenseGVS value="0"/>
+  <AverageHourDrains value="0"/>
+  <DailyGeneral value="4577.4"/>
+  <DailyXVS value="2746.44"/>
+  <DailyGVS value="1830.96"/>
+  <DailyDrains value="0"/>
+  <StockMaxHour value="263.226288"/>
+  <StockAverageHour value="0"/>
+  <StockAverageDaily value="4577.4"/>
+  <CirculatingGVS value="0"/>
+  <GVSWithCirculation value="51.0155"/>
+  <TermalStreamMaxGVSSummer value="7844.14272"/>
+  <TermalStreamMaxGVSWinter value="9805.178400000001"/>
+  <TermalStreamAverageGVSSummer value="0"/>
+  <TermalStreamAverageGVSWinter value="0"/>
+  <TermalStreamSecondGVSSummer value="8544.075940000001"/>
+  <TermalStreamSecondGVSWinter value="10680.094925"/>
+  <ViewCirculation value="Циркуляция по стоякам с одинаковым сопротивлением"/>
+  <TypeCirculation value="Начальный от ИТП"/>
+  <SwimmingPoolDay value="0"/>
+  <SwimmingPoolHour value="0"/>
+  <SwimmingPoolSec value="0"/>
+  <SwimmingPoolProcentFilling value="10"/>
+  <SwimmingPoolTimeFilling value="24"/>
+  <SwimmingPoolVolume value="0"/>
+  <ConsumerParams>
+   <ConsumerParamId value="1"/>
+   <NumberDevice value="20344"/>
+   <WithoutGVS value="10172"/>
+   <UserBase value="15258"/>
+   <Shift value="0"/>
+   <CategoryName value="Дома жилые квартирного типа"/>
+   <SubCategoryName value="с централизованным ГВС. ванными  длиной 1500-1700мм с душами"/>
+   <Unit value="житель"/>
+   <Norma_gvs_sred_sut value="105"/>
+   <Norma_gvs_max_sut value="120"/>
+   <Norma_gvs_chas value="10"/>
+   <Norma_prib_sec_tot value="1.4"/>
+   <Norma_prib_sec_cold value="1.4"/>
+   <Norma_prib_sec_gvs value="0.2"/>
+   <Norma_prib_chas_gvs value="200"/>
+   <Norma_cold_max_sut value="180"/>
+   <Norma_cold_max_chas value="5.6"/>
+   <qumtot value="250.5"/>
+   <qumh value="105"/>
+   <qutot value="300"/>
+   <quh value="120"/>
+   <qhrutot value="15.6"/>
+   <qhruh value="10"/>
+   <q0tot value="0.3"/>
+   <q0hrtot value="300"/>
+   <q0c value="0.2"/>
+   <q0hrc value="200"/>
+   <q0h value="0.2"/>
+   <q0hrh value="200"/>
+   <qs value="0"/>
+   <ProbabilityActionGeneral value="0.002321428571428572"/>
+   <ProbabilityActionXVS value="0.0008333333333333332"/>
+   <ProbabilityActionGVS value="0.02083333333333333"/>
+   <ProbabilityUseGeneral value="0.039"/>
+   <ProbabilityUseXVS value="0.021"/>
+   <ProbabilityUseGVS value="0.075"/>
+   <QuantitySeats value="0"/>
+   <QuantityPlantings value="0"/>
+   <TypeEnterprise value=""/>
+   <AreaWatering value="0"/>
+   <QuantityWatering value="0"/>
+   <QuantityTap value="0"/>
+  </ConsumerParams>
+  <SectionCirculation>
+   <SectionCirculationId value="1"/>
+   <Length value="6393"/>
+   <DiameterExternal value="0"/>
+   <Isolation value="0.6"/>
+   <Temp value="18"/>
+   <Waste value="0"/>
+   <CircExpense value="0"/>
+  </SectionCirculation>
+ </Section>
+</ValtecWaterExpenceSnip>
+<ValtecHydraulic>
+ <SystemType value=""/>
+ <ConnectionType value=""/>
+ <CoolantType value=""/>
+ <IndSteelNew value="1.020255946380718e-309"/>
+</ValtecHydraulic>
+<ValtecWarmWall>
+ <TempDiff value="0"/>
+ <CoolantType value="Вода"/>
+</ValtecWarmWall>
+<ValtecWaterExpenceDin>
+ <ExpColdWaterMin value="0"/>
+ <ExpHotWaterMin value="0"/>
+ <ExpColdWaterMax value="0"/>
+ <ExpHotWaterMax value="0"/>
+ <ConsumerNumber value="0"/>
+ <ExpenditureCalcCold value="0"/>
+ <ExpenditureCalcHot value="0"/>
+ <BuildingType value="Жилое с ванными"/>
+</ValtecWaterExpenceDin>
+<ValtecWarmSquare>
+ <TempCalc value="0"/>
+ <WinvelocitySnowFall value="0"/>
+ <WinvelocitySnowMove value="0"/>
+ <HumiditySnowFall value="0"/>
+ <HumidityTempCalc value="0"/>
+ <IntensitySnowFall value="0"/>
+ <IntensitySnowWind value="0"/>
+ <IntensitySnowMove value="0"/>
+ <TempSnowFall value="0"/>
+ <SquareWidth value="0"/>
+ <SquareLength value="0"/>
+ <SquareHeight value="0"/>
+ <SquareSquare value="0"/>
+ <KSize value="0"/>
+ <PipeDiamOutside value="0"/>
+ <PipeDiamInside value="0"/>
+ <PipeUndulation value="0"/>
+ <PipeLambda value="0"/>
+ <PipeStep value="0"/>
+ <TemCalcUnderShowFall value="0"/>
+ <TemCalcUnderShowMove value="0"/>
+ <CalcSnowLevelShowFall value="0"/>
+ <CalcSnowLevelShowMove value="0"/>
+ <SnowMoveEnabled value="1"/>
+ <settlement value=""/>
+ <CoolantType value="Раствор гликоля с температурой замерзания -30°C"/>
+ <PipeType value="Металлопластиковые 20х2.0"/>
+ <LayerResistanceUnder value="0"/>
+ <LayerResistanceOver value="0"/>
+ <LayerResistanceUnderReduced value="0"/>
+ <ResistancePipeReduced value="0"/>
+ <TempDiff value="15"/>
+ <PipeLengthCommon value="0"/>
+ <CoolantParams_C value="0"/>
+ <CoolantParams_R value="0"/>
+ <CoolantParams_T value="0"/>
+ <CoolantParams_V value="0"/>
+ <Q_nagrev_sneg value="0"/>
+ <Q_plav_sneg value="0"/>
+ <Q_tal_sneg value="0"/>
+ <Q_isp_sneg value="0"/>
+ <Q_konv_sneg value="0"/>
+ <Q_rad_sneg value="0"/>
+ <Q_ud_sneg value="0"/>
+ <Q_nagrev_perenos value="0"/>
+ <Q_plav_perenos value="0"/>
+ <Q_tal_perenos value="0"/>
+ <Q_isp_perenos value="0"/>
+ <Q_konv_perenos value="0"/>
+ <Q_rad_perenos value="0"/>
+ <Q_ud_perenos value="0"/>
+ <Q_raschet value="0"/>
+ <Kpd value="0"/>
+ <T_plav_sneg value="0"/>
+ <T_naled_sneg value="0"/>
+ <T_pl_sneg value="0"/>
+ <T_plav_perenos value="0"/>
+ <T_naled_perenos value="0"/>
+ <T_pl_perenos value="0"/>
+ <Temp_tn value="0"/>
+ <Temp_prin value="0"/>
+ <Q_fakt_verh value="0"/>
+ <Q_poln value="0"/>
+ <Q_summ value="0"/>
+ <Q_pog value="0"/>
+ <T_pl_MAX value="0"/>
+ <SquareSchemaID value="0"/>
+ <K1 value="0"/>
+ <K2 value="0"/>
+ <WithCover value="0"/>
+ <Description value="Без ограждений"/>
+ <NeedDelOnHeight value="1"/>
+ <SquareTypeTypeS value="По грунту"/>
+ <SquareTypeTypeN value="1"/>
+ <SquareDownsideType value=""/>
+ <SquareDownsideK value="0"/>
+</ValtecWarmSquare>
+<ValtecChimneyAerodynamics>
+ <Power value="0"/>
+ <KPD value="0.92"/>
+ <AirExcess value="1.4"/>
+ <ChimneyHeight value="0"/>
+ <PressureLossTotal value="0"/>
+ <TempAver value="0"/>
+ <TempAver value="0"/>
+ <SelfDraft value="0"/>
+ <FuelType value="Газ природный"/>
+ <TemperatureGas value="200"/>
+ <TemperatureEnv value="20"/>
+ <BurningVolumeNorm value="0"/>
+ <BurningVolumeSpecific value="0"/>
+ <AirRequirement value="0"/>
+ <Expenditory value="0"/>
+</ValtecChimneyAerodynamics>
+<ValtecHeatingDevices coolantTempOut="90" coolantTempIn="70" coolantType="Вода" heatFluxConsider="0" coolantTypeId="1" c="4187" ro="980"/>
+<ValtecWaterExpenceSP/>
+<ValtecPipeThroughput>
+ <ProjectData>
+  <Velocity value="1.5"/>
+  <Delta value="0"/>
+  <PipeType value="Металлополимерные PEX-AL-PEX"/>
+  <SystemType value="Водопровод холодной воды"/>
+  <AutoSystemType value="1"/>
+ </ProjectData>
+</ValtecPipeThroughput>
+</root>

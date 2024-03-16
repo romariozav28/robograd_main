@@ -1,0 +1,1318 @@
+﻿<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://earth.google.com/kml/2.1"><Folder><description><![CDATA[96 Items from Layer Автодороги]]></description><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.439265,56.751688,0
+      53.440153,56.752483,0
+      53.441251,56.752442,0
+      53.442764,56.752549,0
+      53.444018,56.752847,0
+      53.445039,56.753194,0
+      53.445831,56.753622,0
+      53.446546,56.754116,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.439404,56.75772,0
+      53.439579,56.757713,0
+      53.442792,56.757661,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.43375,56.762523,0
+          53.440285,56.759394,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle><PolyStyle><fill>0</fill><outline>1</outline></PolyStyle></Style><Polygon><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><outerBoundaryIs><LinearRing><coordinates>
+              53.448992,56.754652,0
+              53.449451,56.754822,0
+              53.449882,56.755014,0
+              53.45028,56.755226,0
+              53.450644,56.755456,0
+              53.450969,56.755702,0
+              53.451254,56.755963,0
+              53.451497,56.756237,0
+              53.451695,56.756521,0
+              53.451847,56.756814,0
+              53.451952,56.757113,0
+              53.45201,56.757416,0
+              53.452019,56.75772,0
+              53.45198,56.758024,0
+              53.451893,56.758325,0
+              53.451758,56.75862,0
+              53.451577,56.758908,0
+              53.451351,56.759186,0
+              53.451082,56.759452,0
+              53.450771,56.759704,0
+              53.450422,56.75994,0
+              53.450037,56.760159,0
+              53.449618,56.760359,0
+              53.449169,56.760537,0
+              53.448694,56.760694,0
+              53.448195,56.760827,0
+              53.447662,56.760934,0
+              53.447114,56.761015,0
+              53.446555,56.761069,0
+              53.44599,56.761095,0
+              53.445422,56.761093,0
+              53.444857,56.761063,0
+              53.444299,56.761006,0
+              53.443753,56.760922,0
+              53.443222,56.760811,0
+              53.442712,56.760675,0
+              53.442226,56.760514,0
+              53.441767,56.76033,0
+              53.441341,56.760124,0
+              53.44095,56.759899,0
+              53.440597,56.759655,0
+              53.440285,56.759394,0
+              53.440022,56.759124,0
+              53.439804,56.758841,0
+              53.439632,56.75855,0
+              53.439508,56.758251,0
+              53.439432,56.757947,0
+              53.439405,56.757641,0
+              53.439427,56.757335,0
+              53.439499,56.757031,0
+              53.439619,56.756732,0
+              53.439786,56.756439,0
+              53.44,56.756156,0
+              53.440258,56.755884,0
+              53.440559,56.755626,0
+              53.4409,56.755384,0
+              53.441278,56.755158,0
+              53.441692,56.754952,0
+              53.442136,56.754767,0
+              53.442609,56.754604,0
+              53.443106,56.754465,0
+              53.443623,56.75435,0
+              53.444157,56.754261,0
+              53.444703,56.754198,0
+              53.445257,56.754161,0
+              53.445815,56.754152,0
+              53.446372,56.75417,0
+              53.446924,56.754214,0
+              53.447467,56.754285,0
+              53.447996,56.754382,0
+              53.448508,56.754504,0
+              53.448992,56.754652,0
+            </coordinates></LinearRing></outerBoundaryIs></Polygon></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.431928,56.757712,0
+          53.439404,56.75772,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.445198,56.75328,0
+      53.444504,56.753322,0
+      53.44382,56.753397,0
+      53.443151,56.753505,0
+      53.442501,56.753645,0
+      53.441876,56.753815,0
+      53.441281,56.754016,0
+      53.440721,56.754244,0
+      53.440199,56.754498,0
+      53.439719,56.754777,0
+      53.439287,56.755077,0
+      53.438904,56.755398,0
+      53.438573,56.755736,0
+      53.438298,56.756088,0
+      53.438081,56.756452,0
+      53.437922,56.756825,0
+      53.437825,56.757205,0
+      53.437788,56.757588,0
+      53.437812,56.757971,0
+      53.437898,56.758351,0
+      53.438044,56.758726,0
+      53.43825,56.759092,0
+      53.438514,56.759447,0
+      53.438833,56.759788,0
+      53.439206,56.760112,0
+      53.439629,56.760417,0
+      53.4401,56.7607,0
+      53.440614,56.760959,0
+      53.441167,56.761193,0
+      53.441756,56.761398,0
+      53.442375,56.761575,0
+      53.44302,56.761721,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.443078,56.752623,0
+      53.442287,56.75277,0
+      53.441524,56.752955,0
+      53.440793,56.753175,0
+      53.4401,56.75343,0
+      53.439451,56.753718,0
+      53.43885,56.754035,0
+      53.438302,56.754381,0
+      53.437811,56.754751,0
+      53.437382,56.755144,0
+      53.437017,56.755556,0
+      53.43672,56.755984,0
+      53.436492,56.756425,0
+      53.436335,56.756875,0
+      53.436252,56.757331,0
+      53.436241,56.757789,0
+      53.436304,56.758246,0
+      53.436439,56.758698,0
+      53.436647,56.759142,0
+      53.436924,56.759574,0
+      53.43727,56.759991,0
+      53.437681,56.76039,0
+      53.438154,56.760767,0
+      53.438686,56.76112,0
+      53.439273,56.761446,0
+      53.439909,56.761742,0
+      53.44059,56.762007,0
+      53.441311,56.762238,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.439265,56.751688,0
+      53.438353,56.752018,0
+      53.437497,56.75239,0
+      53.436702,56.752801,0
+      53.435976,56.753248,0
+      53.435322,56.753728,0
+      53.434746,56.754237,0
+      53.434253,56.754772,0
+      53.433846,56.755328,0
+      53.433528,56.755902,0
+      53.433302,56.756489,0
+      53.433169,56.757084,0
+      53.43313,56.757683,0
+      53.433186,56.758282,0
+      53.433336,56.758875,0
+      53.433579,56.75946,0
+      53.433913,56.760031,0
+      53.434336,56.760583,0
+      53.434845,56.761114,0
+      53.435435,56.761618,0
+      53.436103,56.762093,0
+      53.436842,56.762533,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.431884,56.759131,0
+      53.432179,56.759794,0
+      53.432579,56.760439,0
+      53.43308,56.761063,0
+      53.43368,56.761661,0
+      53.434373,56.762227,0
+      53.435153,56.762757,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.435153,56.762757,0
+      53.436987,56.762514,0
+      53.438476,56.7622,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.441311,56.762238,0
+      53.442847,56.761904,0
+      53.443774,56.760926,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.433633,56.75321,0
+          53.440026,56.756122,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.446492,56.755147,0
+      53.446092,56.755119,0
+      53.44569,56.75511,0
+      53.445288,56.755121,0
+      53.444889,56.755151,0
+      53.444496,56.755201,0
+      53.444113,56.755269,0
+      53.443742,56.755356,0
+      53.443387,56.75546,0
+      53.443049,56.75558,0
+      53.442733,56.755717,0
+      53.442439,56.755868,0
+      53.44217,56.756033,0
+      53.441929,56.75621,0
+      53.441718,56.756399,0
+      53.441537,56.756596,0
+      53.441388,56.756802,0
+      53.441273,56.757014,0
+      53.441193,56.757231,0
+      53.441147,56.757451,0
+      53.441137,56.757672,0
+      53.441162,56.757893,0
+      53.441222,56.758111,0
+      53.441317,56.758326,0
+      53.441446,56.758536,0
+      53.441609,56.758738,0
+      53.441803,56.758932,0
+      53.442027,56.759116,0
+      53.442279,56.759288,0
+      53.442559,56.759448,0
+      53.442862,56.759593,0
+      53.443188,56.759723,0
+      53.443534,56.759837,0
+      53.443896,56.759934,0
+      53.444272,56.760013,0
+      53.44466,56.760073,0
+      53.445056,56.760115,0
+      53.445456,56.760137,0
+      53.445859,56.76014,0
+      53.446261,56.760123,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.446444,56.75607,0
+          53.446546,56.754116,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.446444,56.75607,0
+      53.446193,56.756041,0
+      53.445938,56.756024,0
+      53.445681,56.756019,0
+      53.445425,56.756027,0
+      53.445171,56.756047,0
+      53.444921,56.75608,0
+      53.444678,56.756124,0
+      53.444442,56.756179,0
+      53.444216,56.756246,0
+      53.444002,56.756324,0
+      53.443801,56.756411,0
+      53.443614,56.756508,0
+      53.443444,56.756614,0
+      53.443291,56.756727,0
+      53.443157,56.756847,0
+      53.443043,56.756973,0
+      53.442949,56.757105,0
+      53.442877,56.75724,0
+      53.442826,56.757378,0
+      53.442798,56.757518,0
+      53.442792,56.757659,0
+      53.442808,56.7578,0
+      53.442847,56.757939,0
+      53.442908,56.758076,0
+      53.442991,56.758209,0
+      53.443095,56.758338,0
+      53.443218,56.758462,0
+      53.443361,56.758579,0
+      53.443523,56.758688,0
+      53.443701,56.75879,0
+      53.443894,56.758882,0
+      53.444102,56.758965,0
+      53.444322,56.759038,0
+      53.444552,56.7591,0
+      53.444792,56.75915,0
+      53.445039,56.759188,0
+      53.445291,56.759215,0
+      53.445546,56.759229,0
+      53.445803,56.759231,0
+      53.446059,56.759221,0
+      53.446312,56.759198,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.446312,56.759198,0
+          53.446207,56.761088,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.446487,56.761073,0
+          53.44642,56.765476,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.438619,56.765476,0
+          53.449464,56.765476,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.454101,56.759721,0
+      53.457882,56.761462,0
+      53.458094,56.761555,0
+      53.460324,56.762433,0
+      53.460342,56.762439,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.447997,56.754382,0
+      53.448755,56.754529,0
+      53.449487,56.75471,0
+      53.450189,56.754925,0
+      53.450855,56.755171,0
+      53.451481,56.755447,0
+      53.452062,56.755752,0
+      53.452595,56.756082,0
+      53.452955,56.756322,0
+      53.453316,56.756561,0
+      53.453679,56.756799,0
+      53.454587,56.757387,0
+      53.455505,56.75797,0
+      53.456433,56.758549,0
+      53.457073,56.758903,0
+      53.457731,56.759248,0
+      53.458406,56.759582,0
+      53.458908,56.759819,0
+      53.459422,56.760048,0
+      53.459948,56.760268,0
+      53.461067,56.76072,0
+      53.462221,56.761145,0
+      53.463407,56.761543,0
+      53.465889,56.762255,0
+      53.468474,56.762848,0
+      53.471143,56.763315,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.447565,56.760951,0
+      53.448601,56.760801,0
+      53.449614,56.760609,0
+      53.450597,56.760375,0
+      53.451705,56.760101,0
+      53.452855,56.759884,0
+      53.454036,56.759728,0
+      53.454741,56.759672,0
+      53.455451,56.75965,0
+      53.456162,56.759661,0
+      53.456869,56.759705,0
+      53.457567,56.759782,0
+      53.45825,56.759891,0
+      53.458914,56.760031,0
+      53.459423,56.760162,0
+      53.459922,56.760305,0
+      53.460409,56.760459,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.461926,56.762986,0
+          53.46517,56.760136,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.466704,56.762458,0
+      53.465876,56.763459,0
+      53.464014,56.763406,0
+      53.462103,56.762831,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.456067,56.755638,0
+      53.457554,56.756677,0
+      53.459194,56.757644,0
+      53.460975,56.758533,0
+      53.462883,56.759338,0
+      53.464908,56.760053,0
+      53.467033,56.760672,0
+      53.469245,56.761193,0
+      53.471528,56.76161,0
+      53.473867,56.761922,0
+      53.476244,56.762127,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.457309,56.755125,0
+      53.45886,56.756202,0
+      53.460584,56.757197,0
+      53.462467,56.758101,0
+      53.464491,56.758907,0
+      53.466641,56.759608,0
+      53.468899,56.760198,0
+      53.471246,56.760672,0
+      53.473661,56.761027,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.453515,56.756691,0
+          53.457309,56.755125,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.458503,56.757256,0
+          53.460748,56.756077,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.459281,56.755145,0
+      53.461014,56.756229,0
+      53.462939,56.757211,0
+      53.465036,56.758081,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.459281,56.755145,0
+          53.458071,56.75568,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.461836,56.758913,0
+          53.463721,56.757557,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.473317,56.761859,0
+          53.473661,56.761027,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.465187,56.760141,0
+      53.46721,56.759769,0
+      53.468502,56.759537,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.44952,56.769925,0
+      53.4373,56.769914,0
+      53.428528,56.772135,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.436173,56.7702,0
+      53.43616,56.774402,0
+      53.436165,56.774417,0
+      53.436315,56.774627,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.442038,56.769918,0
+          53.443126,56.773391,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.43617,56.771018,0
+      53.437405,56.771141,0
+      53.438654,56.771209,0
+      53.439908,56.771224,0
+      53.441161,56.771183,0
+      53.442404,56.771089,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.436168,56.771889,0
+      53.437783,56.772026,0
+      53.439414,56.772078,0
+      53.441047,56.772046,0
+      53.442668,56.77193,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.436165,56.772758,0
+      53.437849,56.772886,0
+      53.439547,56.772931,0
+      53.441246,56.772893,0
+      53.442931,56.77277,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.436162,56.773624,0
+      53.437625,56.773731,0
+      53.439098,56.773782,0
+      53.440573,56.773774,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.436176,56.774433,0
+          53.443348,56.773358,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.461841,56.758915,0
+          53.459845,56.760226,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.462703,56.762304,0
+      53.4638,56.762638,0
+      53.464919,56.76295,0
+      53.466058,56.763239,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.460837,56.759574,0
+      53.461969,56.760033,0
+      53.463138,56.760463,0
+      53.464341,56.760864,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.464347,56.760859,0
+      53.466397,56.761448,0
+      53.468521,56.761952,0
+      53.470707,56.762368,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.471169,56.761552,0
+          53.470707,56.762368,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.460253,56.7616,0
+          53.461228,56.760782,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.460253,56.7616,0
+      53.460683,56.761645,0
+      53.462663,56.762339,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.459167,56.760095,0
+      53.458831,56.760477,0
+      53.458824,56.760491,0
+      53.458823,56.760939,0
+      53.458823,56.760944,0
+      53.458822,56.76095,0
+      53.458819,56.760956,0
+      53.458816,56.760962,0
+      53.458812,56.760967,0
+      53.458807,56.760972,0
+      53.458801,56.760977,0
+      53.458795,56.760982,0
+      53.45799,56.76151,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.457162,56.758951,0
+          53.459174,56.757633,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.438476,56.7622,0
+      53.437776,56.761835,0
+      53.437136,56.761437,0
+      53.436562,56.76101,0
+      53.436058,56.760557,0
+      53.435629,56.760082,0
+      53.435276,56.759588,0
+      53.435004,56.759079,0
+      53.434814,56.758558,0
+      53.434707,56.758031,0
+      53.434685,56.7575,0
+      53.434748,56.756971,0
+      53.434894,56.756446,0
+      53.435124,56.755931,0
+      53.435434,56.755428,0
+      53.435824,56.754942,0
+      53.436289,56.754477,0
+      53.436827,56.754036,0
+      53.437433,56.753623,0
+      53.438102,56.75324,0
+      53.43883,56.752891,0
+      53.43961,56.752578,0
+      53.439985,56.75249,0
+      53.440153,56.752483,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.460342,56.762439,0
+      53.460873,56.762619,0
+      53.461401,56.762801,0
+      53.461926,56.762986,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.463357,56.783755,0
+          53.474216,56.784492,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.464341,56.78503,0
+          53.46443,56.784633,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.464504,56.783027,0
+      53.469172,56.783344,0
+      53.470368,56.783425,0
+      53.474141,56.783828,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.468771,56.785125,0
+      53.469487,56.781947,0
+      53.4648,56.776468,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.466539,56.782011,0
+      53.467489,56.782003,0
+      53.473854,56.780369,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.470781,56.782041,0
+          53.473766,56.781274,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.473553,56.781329,0
+      53.473303,56.780544,0
+      53.47328,56.780517,0
+      53.472046,56.779069,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.46374,56.781201,0
+          53.472594,56.778928,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.4648,56.776468,0
+          53.466865,56.775938,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.452352,56.77668,0
+      53.455397,56.776047,0
+      53.458399,56.775374,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.444794,56.794013,0
+      53.444842,56.793372,0
+      53.444797,56.79273,0
+      53.444661,56.792092,0
+      53.444434,56.791463,0
+      53.444383,56.791316,0
+      53.444355,56.791168,0
+      53.444352,56.791019,0
+      53.444373,56.79087,0
+      53.444644,56.789635,0
+      53.444752,56.789144,0
+      53.445319,56.786562,0
+      53.445429,56.786063,0
+      53.446031,56.783317,0
+      53.446135,56.782821,0
+      53.446565,56.780679,0
+      53.446596,56.780579,0
+      53.446644,56.780482,0
+      53.446708,56.780387,0
+      53.446788,56.780296,0
+      53.446882,56.780209,0
+      53.446991,56.780128,0
+      53.447113,56.780052,0
+      53.447378,56.779887,0
+      53.447615,56.77971,0
+      53.447822,56.779522,0
+      53.447997,56.779324,0
+      53.448139,56.779119,0
+      53.448246,56.778907,0
+      53.448317,56.778691,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.446415,56.781427,0
+      53.446444,56.7814,0
+      53.446477,56.781374,0
+      53.446513,56.781351,0
+      53.446554,56.781329,0
+      53.446597,56.781309,0
+      53.446644,56.781292,0
+      53.446693,56.781276,0
+      53.446745,56.781263,0
+      53.446798,56.781253,0
+      53.446853,56.781245,0
+      53.446908,56.78124,0
+      53.446965,56.781237,0
+      53.447021,56.781237,0
+      53.447078,56.78124,0
+      53.447134,56.781246,0
+      53.447188,56.781254,0
+      53.447241,56.781265,0
+      53.447293,56.781278,0
+      53.447342,56.781294,0
+      53.447388,56.781311,0
+      53.447431,56.781331,0
+      53.447471,56.781353,0
+      53.447507,56.781377,0
+      53.44754,56.781403,0
+      53.447568,56.78143,0
+      53.447592,56.781458,0
+      53.447611,56.781487,0
+      53.447626,56.781517,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.444537,56.790123,0
+      53.444535,56.790154,0
+      53.444539,56.790185,0
+      53.444547,56.790215,0
+      53.444561,56.790245,0
+      53.444578,56.790274,0
+      53.444601,56.790302,0
+      53.444627,56.790329,0
+      53.444658,56.790355,0
+      53.444693,56.790379,0
+      53.444731,56.790402,0
+      53.444773,56.790422,0
+      53.444818,56.790441,0
+      53.444866,56.790457,0
+      53.444916,56.790471,0
+      53.444968,56.790482,0
+      53.445021,56.790492,0
+      53.445076,56.790498,0
+      53.445132,56.790502,0
+      53.445188,56.790503,0
+      53.445244,56.790502,0
+      53.445299,56.790498,0
+      53.445354,56.790491,0
+      53.445407,56.790482,0
+      53.445459,56.79047,0
+      53.445509,56.790456,0
+      53.445556,56.790439,0
+      53.445601,56.790421,0
+      53.445642,56.7904,0
+      53.445681,56.790377,0
+      53.445715,56.790353,0
+      53.445746,56.790327,0
+      53.445772,56.7903,0
+      53.445794,56.790272,0
+      53.445811,56.790243,0
+      53.445824,56.790213,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.452361,56.776691,0
+      53.458731,56.78417,0
+      53.463264,56.785687,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.455397,56.776047,0
+          53.460479,56.782015,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.457027,56.78217,0
+          53.46003,56.781488,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.448441,56.778197,0
+      53.45197,56.778425,0
+      53.453407,56.778426,0
+      53.453418,56.778426,0
+      53.453429,56.778426,0
+      53.45344,56.778424,0
+      53.453451,56.778423,0
+      53.453461,56.778421,0
+      53.453773,56.778349,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.459307,56.783718,0
+          53.458345,56.783717,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.462863,56.784333,0
+      53.463899,56.784597,0
+      53.471641,56.785123,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.460479,56.782015,0
+      53.464212,56.781962,0
+      53.473811,56.779498,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.46299,56.780511,0
+          53.471397,56.778353,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.462285,56.77981,0
+          53.470109,56.777802,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.461668,56.779086,0
+          53.469329,56.777119,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FF00</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.461034,56.778342,0
+          53.468326,56.77647,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.458686,56.775584,0
+          53.462901,56.780534,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.458399,56.775374,0
+      53.462813,56.780557,0
+      53.46299,56.780511,0
+      53.464224,56.781959,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.44253,56.783002,0
+          53.446091,56.783032,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.429866,56.788599,0
+      53.441177,56.783012,0
+      53.441183,56.78301,0
+      53.441189,56.783007,0
+      53.441196,56.783005,0
+      53.441203,56.783004,0
+      53.44121,56.783002,0
+      53.441217,56.783002,0
+      53.441225,56.783001,0
+      53.441232,56.783001,0
+      53.44253,56.783002,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.436786,56.779674,0
+      53.442714,56.783109,0
+      53.444004,56.783852,0
+      53.444027,56.783865,0
+      53.444048,56.78388,0
+      53.444066,56.783895,0
+      53.444082,56.783912,0
+      53.444096,56.783929,0
+      53.444107,56.783946,0
+      53.444115,56.783964,0
+      53.44412,56.783983,0
+      53.444123,56.784001,0
+      53.444123,56.78402,0
+      53.44412,56.784038,0
+      53.442121,56.792786,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.442923,56.789276,0
+          53.444698,56.789388,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.443626,56.786198,0
+          53.445373,56.786318,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.442518,56.786125,0
+      53.440719,56.787088,0
+      53.44065,56.787124,0
+      53.437883,56.788826,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.440685,56.787106,0
+      53.442324,56.787987,0
+      53.442338,56.787994,0
+      53.442352,56.788,0
+      53.442368,56.788005,0
+      53.442384,56.788009,0
+      53.442402,56.788013,0
+      53.442419,56.788015,0
+      53.442437,56.788017,0
+      53.443199,56.78807,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.443623,56.786211,0
+      53.442617,56.786142,0
+      53.442591,56.786139,0
+      53.442566,56.786136,0
+      53.442541,56.786131,0
+      53.442517,56.786125,0
+      53.442494,56.786118,0
+      53.442473,56.78611,0
+      53.442452,56.786101,0
+      53.442433,56.786092,0
+      53.440613,56.785066,0
+      53.433344,56.788901,0
+      53.434531,56.789579,0
+      53.434041,56.789838,0
+      53.434031,56.789844,0
+      53.434022,56.78985,0
+      53.434014,56.789857,0
+      53.434007,56.789863,0
+      53.434001,56.789871,0
+      53.433997,56.789878,0
+      53.433993,56.789886,0
+      53.433991,56.789893,0
+      53.43399,56.789901,0
+      53.433991,56.789909,0
+      53.433992,56.789917,0
+      53.433995,56.789924,0
+      53.433999,56.789932,0
+      53.434004,56.789939,0
+      53.434011,56.789946,0
+      53.434018,56.789953,0
+      53.434027,56.789959,0
+      53.434036,56.789965,0
+      53.434134,56.790021,0
+      53.434148,56.790026,0
+      53.434161,56.79003,0
+      53.434176,56.790034,0
+      53.434191,56.790036,0
+      53.434206,56.790038,0
+      53.434222,56.790039,0
+      53.434238,56.79004,0
+      53.434254,56.79004,0
+      53.434269,56.790039,0
+      53.434285,56.790037,0
+      53.4343,56.790034,0
+      53.434314,56.790031,0
+      53.434328,56.790027,0
+      53.434342,56.790023,0
+      53.434354,56.790017,0
+      53.437164,56.788535,0
+      53.437174,56.78853,0
+      53.437184,56.788526,0
+      53.437195,56.788522,0
+      53.437207,56.788519,0
+      53.437219,56.788517,0
+      53.437231,56.788515,0
+      53.437244,56.788513,0
+      53.437256,56.788513,0
+      53.437269,56.788512,0
+      53.437282,56.788513,0
+      53.437295,56.788514,0
+      53.437307,56.788516,0
+      53.437319,56.788518,0
+      53.437331,56.788521,0
+      53.437342,56.788524,0
+      53.437353,56.788528,0
+      53.437363,56.788532,0
+      53.437372,56.788537,0
+      53.437837,56.788803,0
+      53.439221,56.789501,0
+      53.439577,56.789677,0
+      53.440818,56.790217,0
+      53.441094,56.790337,0
+      53.441108,56.790343,0
+      53.441123,56.790348,0
+      53.441139,56.790352,0
+      53.441156,56.790356,0
+      53.441173,56.790358,0
+      53.441191,56.79036,0
+      53.442652,56.790461,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.435753,56.791518,0
+          53.43947,56.789624,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.439841,56.7917,0
+          53.440406,56.790038,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.437172,56.790795,0
+      53.438189,56.791397,0
+      53.438208,56.791407,0
+      53.438229,56.791417,0
+      53.438251,56.791425,0
+      53.438275,56.791432,0
+      53.4383,56.791439,0
+      53.438325,56.791444,0
+      53.438351,56.791447,0
+      53.438378,56.79145,0
+      53.438405,56.791451,0
+      53.438432,56.791451,0
+      53.438459,56.79145,0
+      53.438486,56.791447,0
+      53.438512,56.791443,0
+      53.438537,56.791438,0
+      53.438562,56.791431,0
+      53.438585,56.791424,0
+      53.438607,56.791415,0
+      53.438628,56.791406,0
+      53.440216,56.790597,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.44734,56.783275,0
+      53.447314,56.783523,0
+      53.447326,56.783772,0
+      53.447376,56.78402,0
+      53.447464,56.784264,0
+      53.447589,56.784504,0
+      53.447751,56.784737,0
+      53.447961,56.784974,0
+      53.44821,56.785201,0
+      53.448494,56.785415,0
+      53.448812,56.785613,0
+      53.449161,56.785796,0
+      53.449538,56.78596,0
+      53.449941,56.786105,0
+      53.450365,56.78623,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.446834,56.785444,0
+      53.446843,56.785408,0
+      53.446857,56.785371,0
+      53.446878,56.785336,0
+      53.446904,56.785302,0
+      53.446935,56.785269,0
+      53.446971,56.785237,0
+      53.447012,56.785208,0
+      53.447058,56.78518,0
+      53.447107,56.785155,0
+      53.447161,56.785133,0
+      53.447218,56.785112,0
+      53.447278,56.785095,0
+      53.44734,56.785081,0
+      53.447404,56.785069,0
+      53.44747,56.785061,0
+      53.447537,56.785056,0
+      53.447605,56.785054,0
+      53.447672,56.785055,0
+      53.447739,56.785059,0
+      53.447806,56.785067,0
+      53.44787,56.785078,0
+      53.447933,56.785091,0
+      53.447994,56.785108,0
+      53.448051,56.785127,0
+      53.448106,56.785149,0
+      53.448156,56.785174,0
+      53.448203,56.785201,0
+      53.448245,56.78523,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.440999,56.782115,0
+      53.443481,56.780833,0
+      53.443489,56.780828,0
+      53.443497,56.780823,0
+      53.443503,56.780818,0
+      53.443509,56.780812,0
+      53.443514,56.780806,0
+      53.443517,56.7808,0
+      53.44352,56.780794,0
+      53.443522,56.780788,0
+      53.443523,56.780781,0
+      53.443522,56.780775,0
+      53.443521,56.780769,0
+      53.443518,56.780762,0
+      53.443515,56.780756,0
+      53.443511,56.78075,0
+      53.441928,56.778863,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.446034,56.789125,0
+          53.448782,56.789314,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.437444,56.780055,0
+      53.438615,56.779409,0
+      53.442194,56.781498,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.447527,56.781942,0
+      53.448346,56.781997,0
+      53.455961,56.782003,0
+      53.456735,56.781827,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.444927,56.7976,0
+      53.444767,56.795164,0
+      53.444756,56.795011,0
+      53.444748,56.794846,0
+      53.444749,56.794681,0
+      53.444758,56.794516,0
+      53.444777,56.794334,0
+      53.444806,56.794152,0
+      53.444846,56.793971,0
+      53.445253,56.792617,0
+      53.445408,56.792101,0
+      53.445612,56.791419,0
+      53.446005,56.789285,0
+      53.446063,56.78897,0
+      53.446345,56.787435,0
+      53.446364,56.787328,0
+      53.446712,56.785436,0
+      53.44681,56.785014,0
+      53.446986,56.78426,0
+      53.447218,56.783265,0
+      53.447808,56.780735,0
+      53.448355,56.778595,0
+      53.448542,56.777725,0
+      53.448675,56.777106,0
+      53.448915,56.775983,0
+      53.449291,56.774229,0
+      53.449466,56.773274,0
+      53.449556,56.772782,0
+      53.449431,56.762891,0
+      53.449454,56.760878,0
+      53.449466,56.759841,0
+      53.449508,56.756246,0
+      53.449521,56.755438,0
+      53.449536,56.754489,0
+      53.449557,56.753204,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF809FFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.422319,56.786214,0
+      53.423657,56.785541,0
+      53.424566,56.78522,0
+      53.425723,56.784991,0
+      53.426671,56.784803,0
+      53.427193,56.784643,0
+      53.427509,56.784524,0
+      53.428195,56.784165,0
+      53.430081,56.783141,0
+      53.431033,56.782544,0
+      53.4317,56.782146,0
+      53.431745,56.78212,0
+      53.431856,56.782053,0
+      53.433335,56.781281,0
+      53.434297,56.780783,0
+      53.435444,56.780159,0
+      53.436051,56.77983,0
+      53.436492,56.779633,0
+      53.43688,56.779501,0
+      53.437794,56.779296,0
+      53.438789,56.779115,0
+      53.43909,56.779085,0
+      53.439604,56.779065,0
+      53.439706,56.779062,0
+      53.440031,56.779049,0
+      53.440724,56.779001,0
+      53.441055,56.778959,0
+      53.442012,56.778808,0
+      53.443135,56.778588,0
+      53.445083,56.778159,0
+      53.44718,56.777708,0
+      53.447995,56.777539,0
+      53.449156,56.777298,0
+      53.45058,56.777002,0
+      53.453042,56.776477,0
+      53.454714,56.776122,0
+      53.4555,56.775958,0
+      53.455909,56.775853,0
+      53.456358,56.775697,0
+      53.456597,56.775602,0
+      53.456771,56.775466,0
+      53.457035,56.775128,0
+      53.457544,56.774558,0
+      53.457821,56.774312,0
+      53.458125,56.774114,0
+      53.458466,56.773962,0
+      53.459311,56.773687,0
+      53.460019,56.773457,0
+      53.460845,56.773111,0
+      53.461711,56.772225,0
+      53.462832,56.771205,0
+      53.463359,56.770722,0
+      53.46506,56.769695,0
+      53.467782,56.768513,0
+      53.471201,56.766548,0
+      53.471724,56.766247,0
+      53.476241,56.763589,0
+      53.476244,56.762127,0
+        </coordinates></LineString></Placemark></Folder></kml>

@@ -1,0 +1,23 @@
+!table
+!version 300
+!charset Neutral
+
+Definition Table
+  File "5_4.jpg"
+  Type "RASTER"
+  (53.36823463,56.75662272) (0,0) Label "Point 1",
+  (53.40874672,56.7453528) (1888,956) Label "Point 2",
+  (53.36823463,56.7453528) (0,956) Label "Point 3",
+  (53.40874672,56.75662272) (1888,0) Label "Point 4",
+  (53.38849068,56.75098819) (944,478) Label "Point 5",
+  (53.38849068,56.75662272) (944,0) Label "Point 6",
+  (53.36823463,56.75098819) (0,478) Label "Point 7",
+  (53.40874672,56.75098819) (1888,478) Label "Point 8",
+  (53.38849068,56.7453528) (944,956) Label "Point 9"
+  CoordSys Earth Projection 10, 104, "m", 0
+  Units "degree"
+begin_metadata
+"\IsReadOnly" = "FALSE"
+"\MapInfo" = ""
+"\MapInfo\TableID" = "2516b6d2-91e5-4a42-b9cc-885b6aa5ef81"
+end_metadata

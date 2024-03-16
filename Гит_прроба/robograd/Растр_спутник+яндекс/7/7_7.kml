@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml><GroundOverlay><name>7_7.jpg</name><color>88ffffff</color><Icon>
+<href>7_7.jpg</href>
+<viewBoundScale>0.75</viewBoundScale></Icon><LatLonBox>
+<north>56.7345276496044</north>
+<south>56.7232510707373</south>
+<east>53.5680270195007</east>
+<west>53.5275363922119</west>
+</LatLonBox></GroundOverlay></kml>

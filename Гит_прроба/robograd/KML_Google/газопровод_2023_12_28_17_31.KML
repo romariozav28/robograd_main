@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?><kml xmlns="http://earth.google.com/kml/2.1"><Folder><description><![CDATA[4 Items from Layer Газопровод]]></description><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF00FFFF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.421016,56.807878,0
+      53.42526,56.802616,0
+      53.427012,56.800536,0
+      53.427778,56.799144,0
+      53.437873,56.797874,0
+      53.443943,56.791135,0
+      53.444007,56.790846,0
+      53.444279,56.78961,0
+      53.444386,56.78912,0
+      53.444954,56.786538,0
+      53.445063,56.786039,0
+      53.445666,56.783294,0
+      53.445769,56.782799,0
+      53.4462,56.780655,0
+      53.44624,56.780538,0
+      53.446299,56.780423,0
+      53.446376,56.780312,0
+      53.446469,56.780204,0
+      53.446579,56.780101,0
+      53.446705,56.780004,0
+      53.446845,56.779913,0
+      53.447089,56.779762,0
+      53.447307,56.7796,0
+      53.447497,56.779427,0
+      53.447658,56.779246,0
+      53.447788,56.779057,0
+      53.447886,56.778863,0
+      53.447952,56.778664,0
+      53.448163,56.777696,0
+      53.448298,56.777077,0
+      53.448915,56.774237,0
+      53.449198,56.772651,0
+      53.449164,56.770015,0
+      53.449161,56.769835,0
+      53.449107,56.765633,0
+      53.449103,56.765318,0
+      53.449072,56.762927,0
+      53.449095,56.760975,0
+      53.449104,56.760239,0
+      53.44917,56.75504,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF0000FF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>relativeToGround</altitudeMode><tessellate>0</tessellate><coordinates>
+          53.446544,56.778124,0
+          53.439201,56.779489,0
+      </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF0000FF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.419062,56.807829,0
+      53.425116,56.802573,0
+      53.426858,56.800504,0
+      53.427649,56.799068,0
+      53.437761,56.797796,0
+      53.443784,56.791109,0
+      53.445538,56.78313,0
+        </coordinates></LineString></Placemark><Placemark><name><![CDATA[MapInfo Saved Objects]]></name><description><![CDATA[<br><br><br>
+    <table border="1" padding="0">
+      <tr><td>blank</td><td></td></tr>
+        ]]></description><visibility>1</visibility><open>0</open><Style><LineStyle><color>FF0000FF</color><width>  1</width></LineStyle></Style><LineString><extrude>1</extrude><altitudeMode>clampToGround</altitudeMode><tessellate>1</tessellate><coordinates>
+      53.445538,56.78313,0
+      53.446544,56.778124,0
+      53.450186,56.777298,0
+      53.456642,56.775851,0
+      53.458729,56.774187,0
+      53.466702,56.773829,0
+      53.470488,56.771284,0
+        </coordinates></LineString></Placemark></Folder></kml>
